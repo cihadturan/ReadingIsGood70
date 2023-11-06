@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{3016C5DC-D985-456E-AD92-73FE508FED34}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ReadingIsGood70.DataLayer/Mappings/ProductMap.cs">
+    <Files>
+      <File FileName="../ReadingIsGood.EntityLayer/Database/Auth/RefreshToken.cs" Line="11" Column="18" />
+      <File FileName="../ReadingIsGood70.DataLayer/Contracts/IAuthRepository.cs" Line="22" Column="62" />
+      <File FileName="../ReadingIsGood70.DataLayer/Contracts/IDatabaseRepository.cs" Line="10" Column="26" />
+      <File FileName="../ReadingIsGood70.DataLayer/Contracts/ICrudOperations.cs" Line="6" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Extensions/PropertyBuilderExtensions.cs" Line="5" Column="26" />
+      <File FileName="../ReadingIsGood70.DataLayer/Extensions/RefreshTokenExtensions.cs" Line="2" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Extensions/TypeExtensions.cs" Line="23" Column="40" />
+      <File FileName="../ReadingIsGood70.DataLayer/Extensions/UserExtensions.cs" Line="2" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/EntityMap.cs" Line="4" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/EntityMapComponent.cs" Line="2" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/EntityMapper.cs" Line="4" Column="26" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/IEntityMapComponent.cs" Line="3" Column="26" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/IEntityMap.cs" Line="9" Column="2" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/Base/IEntityMapper.cs" Line="12" Column="2" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/OrderDetailMap.cs" Line="5" Column="22" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/OrderMap.cs" Line="10" Column="6" />
+      <File FileName="../ReadingIsGood70.DataLayer/Mappings/ProductMap.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReadingIsGood70" expanded="True" selected="True">
+            <Node name="ReadingIsGood70.Api">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadingIsGood70.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

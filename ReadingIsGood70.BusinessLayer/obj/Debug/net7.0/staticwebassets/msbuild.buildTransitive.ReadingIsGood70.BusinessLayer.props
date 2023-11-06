@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ReadingIsGood70.BusinessLayer.props" />
+</Project>

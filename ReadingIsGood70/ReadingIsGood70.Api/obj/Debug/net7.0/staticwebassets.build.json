@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "Hash": "y91CtIQQB9xtrZyFlt/SUkeKrVffesTSuVW1rYa5xZQ=",
+  "Source": "ReadingIsGood70.Api",
+  "BasePath": "_content/ReadingIsGood70.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/cihadturan/ReadingIsGood70/ReadingIsGood70.BusinessLayer/ReadingIsGood70.BusinessLayer.csproj",
+      "Version": 2,
+      "Source": "ReadingIsGood70.BusinessLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    },
+    {
+      "Identity": "/Users/cihadturan/ReadingIsGood70/ReadingIsGood70.DataLayer/ReadingIsGood70.DataLayer.csproj",
+      "Version": 2,
+      "Source": "ReadingIsGood70.DataLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "/Users/cihadturan/ReadingIsGood70/ReadingIsGood70.EntityLayer/ReadingIsGood70.EntityLayer.csproj",
+      "Version": 2,
+      "Source": "ReadingIsGood70.EntityLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "/Users/cihadturan/ReadingIsGood70/ReadingIsGood70.Utils/ReadingIsGood70.Utils.csproj",
+      "Version": 2,
+      "Source": "ReadingIsGood70.Utils",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingIsGood70.Api", "ReadingIsGood70.Api\ReadingIsGood70.Api.csproj", "{50559713-7094-48B2-8FEB-EFCBA234F747}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3016C5DC-D985-456E-AD92-73FE508FED34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingIsGood70.BusinessLayer", "..\ReadingIsGood70.BusinessLayer\ReadingIsGood70.BusinessLayer.csproj", "{A4CCB41B-9A41-4D19-AC22-8802F697ED24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingIsGood70.DataLayer", "..\ReadingIsGood70.DataLayer\ReadingIsGood70.DataLayer.csproj", "{8BC27C9A-2D33-45A0-A582-D4E738FDBD52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingIsGood70.Utils", "..\ReadingIsGood70.Utils\ReadingIsGood70.Utils.csproj", "{5DC63702-97C6-47BD-BE8F-A23EA69AD94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingIsGood70.EntityLayer", "..\ReadingIsGood70.EntityLayer\ReadingIsGood70.EntityLayer.csproj", "{9E999F73-4925-4C07-B874-EAAB9EE3F8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50559713-7094-48B2-8FEB-EFCBA234F747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50559713-7094-48B2-8FEB-EFCBA234F747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50559713-7094-48B2-8FEB-EFCBA234F747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50559713-7094-48B2-8FEB-EFCBA234F747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3016C5DC-D985-456E-AD92-73FE508FED34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3016C5DC-D985-456E-AD92-73FE508FED34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3016C5DC-D985-456E-AD92-73FE508FED34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3016C5DC-D985-456E-AD92-73FE508FED34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CCB41B-9A41-4D19-AC22-8802F697ED24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CCB41B-9A41-4D19-AC22-8802F697ED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CCB41B-9A41-4D19-AC22-8802F697ED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CCB41B-9A41-4D19-AC22-8802F697ED24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC27C9A-2D33-45A0-A582-D4E738FDBD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC27C9A-2D33-45A0-A582-D4E738FDBD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC27C9A-2D33-45A0-A582-D4E738FDBD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC27C9A-2D33-45A0-A582-D4E738FDBD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC63702-97C6-47BD-BE8F-A23EA69AD94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC63702-97C6-47BD-BE8F-A23EA69AD94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC63702-97C6-47BD-BE8F-A23EA69AD94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC63702-97C6-47BD-BE8F-A23EA69AD94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E999F73-4925-4C07-B874-EAAB9EE3F8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E999F73-4925-4C07-B874-EAAB9EE3F8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E999F73-4925-4C07-B874-EAAB9EE3F8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E999F73-4925-4C07-B874-EAAB9EE3F8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9947F1-FE94-41AA-9034-C5647F045081}
+	EndGlobalSection
+EndGlobal

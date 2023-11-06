@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  readingisgood70.api:
+    image: ${DOCKER_REGISTRY-}readingisgood70
+    build:
+      context: .
+      dockerfile: ReadingIsGood70.Api/Dockerfile
